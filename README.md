@@ -22,7 +22,7 @@ python main_polyExtract.py -i "PATH_TO_THE_IMAGE_FILE"
 
 or 
 
-python main_polyExtract.py --image i "PATH_TO_THE_IMAGE_FILE"
+python main_polyExtract.py --image "PATH_TO_THE_IMAGE_FILE"
 
 
 # Author: 
